@@ -1,0 +1,22 @@
+verilog xil_defaultlib --include "../../../../CustomPWM_AXILite03.srcs/sources_1/bd/BD01/ipshared/ec67/hdl" --include "../../../../CustomPWM_AXILite03.srcs/sources_1/bd/BD01/ipshared/8c62/hdl" --include "../../../../CustomPWM_AXILite03.srcs/sources_1/bd/BD01/ip/BD01_processing_system7_0_0" --include "../../../../CustomPWM_AXILite03.srcs/sources_1/bd/BD01/ipshared/1b7e/hdl/verilog" --include "../../../../CustomPWM_AXILite03.srcs/sources_1/bd/BD01/ipshared/122e/hdl/verilog" --include "../../../../CustomPWM_AXILite03.srcs/sources_1/bd/BD01/ipshared/6887/hdl/verilog" --include "../../../../CustomPWM_AXILite03.srcs/sources_1/bd/BD01/ipshared/9623/hdl/verilog" \
+"../../../bd/BD01/ip/BD01_processing_system7_0_0/sim/BD01_processing_system7_0_0.v" \
+"../../../bd/BD01/ipshared/4492/src/PWM_Generator.v" \
+"../../../bd/BD01/ipshared/4492/hdl/PWM_Generator_v1_1_S00_AXI.v" \
+"../../../bd/BD01/ipshared/4492/hdl/PWM_Generator_v1_1.v" \
+"../../../bd/BD01/ip/BD01_PWM_Generator_0_1/sim/BD01_PWM_Generator_0_1.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/sim/bd_fc0c.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_0/sim/bd_fc0c_ila_lib_0.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_1/bd_fc0c_g_inst_0_gigantic_mux.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_1/sim/bd_fc0c_g_inst_0.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_2/sim/bd_fc0c_slot_0_aw_0.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_3/sim/bd_fc0c_slot_0_w_0.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_4/sim/bd_fc0c_slot_0_b_0.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_5/sim/bd_fc0c_slot_0_ar_0.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/bd_0/ip/ip_6/sim/bd_fc0c_slot_0_r_0.v" \
+"../../../bd/BD01/ip/BD01_system_ila_0_0/sim/BD01_system_ila_0_0.v" \
+"../../../bd/BD01/ip/BD01_auto_pc_0/sim/BD01_auto_pc_0.v" \
+"../../../bd/BD01/sim/BD01.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
