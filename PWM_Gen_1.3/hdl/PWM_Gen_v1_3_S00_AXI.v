@@ -375,7 +375,7 @@
 	begin
 	      // Address decoding for reading registers
 	      case ( axi_araddr[ADDR_LSB+OPT_MEM_ADDR_BITS:ADDR_LSB] )
-	        2'h0   : reg_data_out <= slv_reg0;
+	        2'h0   : reg_data_out <= {Period,Width};
 	        2'h1   : reg_data_out <= slv_reg1;
 	        2'h2   : reg_data_out <= slv_reg2;
 	        2'h3   : reg_data_out <= slv_reg3;
@@ -397,8 +397,8 @@
 	      // output the read dada 
 	      if (slv_reg_rden)
 	        begin
-	           axi_rdata <= {Period,Width};
-	          //axi_rdata <= reg_data_out;     // register read data
+	          //axi_rdata <= {Period,Width};
+	          axi_rdata <= reg_data_out;     // register read data
 	        end   
 	    end
 	end    

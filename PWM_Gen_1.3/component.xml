@@ -266,7 +266,7 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>624cbb70</spirit:value>
+            <spirit:value>07ecb906</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -282,7 +282,7 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>624cbb70</spirit:value>
+            <spirit:value>07ecb906</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -831,8 +831,8 @@
         <xilinx:taxonomy>AXI_Peripheral</xilinx:taxonomy>
       </xilinx:taxonomies>
       <xilinx:displayName>PWM_Gen_v1.3</xilinx:displayName>
-      <xilinx:coreRevision>3</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2026-10-02T07:45:26Z</xilinx:coreCreationDateTime>
+      <xilinx:coreRevision>4</xilinx:coreRevision>
+      <xilinx:coreCreationDateTime>2026-10-02T12:15:30Z</xilinx:coreCreationDateTime>
       <xilinx:tags>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@1d9e3f68_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@1c544cae_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
@@ -882,14 +882,25 @@
         <xilinx:tag xilinx:name="ui.data.coregen.dd@71f2831b_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@aba3688_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@1f30827b_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@64c6aed1_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@d746554_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@254111f7_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1db4c21b_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3666f8c2_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4199208c_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5f050084_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@38d560d7_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4fc064dc_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@724c13d0_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@75dff369_ARCHIVE_LOCATION">e:/XilinxProjects2019.1/ip_repo/PWM_Gen_1.3</xilinx:tag>
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
       <xilinx:xilinxVersion>2019.1</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="7a63f3fc"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="ed1368d5"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="c3a8ea24"/>
-      <xilinx:checksum xilinx:scope="ports" xilinx:value="ba6d44e9"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="85ed1f73"/>
+      <xilinx:checksum xilinx:scope="ports" xilinx:value="8a563bd5"/>
       <xilinx:checksum xilinx:scope="hdlParameters" xilinx:value="6992ea72"/>
       <xilinx:checksum xilinx:scope="parameters" xilinx:value="f37fb564"/>
     </xilinx:packagingInfo>
